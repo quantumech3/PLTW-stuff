@@ -1,0 +1,25 @@
+2.
+	a. Returned from ln 17
+	b. 
+		food exists in fruit & citrus = ln 15
+		food exists only in fruit = ln 17
+		food exists in starchy = ln 20
+		food exists in none of the sets = ln 22
+	c. Bananas will never exist as starchy and fruit at the same time because there is no test case where that can happen
+
+5. A non-integer, a multiple of 2, multiple of 6 and a multiple of 2 + 1
+
+6. '+' as concatination puts 2 strings together where as '+' as addition numerically adds its operands
+
+7. 
+	a. Line 11 tells the user that his/her guess is correct because it can only happen if line 9 fails (test for being wrong fails)
+	
+
+CONCLUSION
+---------------------------
+1. The relationship between if structures and glass box testing is that glass box testing is used to test every signle cose for if statements and make sure that everything works as intended.
+
+2. Im confused, it depends on the amount of if-else structures and what is inputted
+
+3. A test suite is a program or a part of a program that is written specifically to test code. Programmers write the test suite before they write the program so they can test their code as they write it. I personally usually just use try-catch structures, spam breakpoints and the occasional print statement... MUHAHHAHAHAHAHAHAHAHAHA
+
