@@ -1,3 +1,15 @@
+/**
+ * Written and developed by Scott Burgert on 3/15/19
+ *
+ * Description:
+ * 		Tester program for 'Population' class.
+ * 		Asks user for population starting size, average daily increase and number of days they will multiply then
+ * 	    ... uses the Population class to display the daily population on those days.
+ *
+ * 	    Requirements said "The program should display the daily population" so I took that to mean that the daily population
+ * 	    should be displayed for all the days in the growth span specified by user.
+ */
+
 import java.util.Scanner;
 
 public class Tester
@@ -39,6 +51,5 @@ public class Tester
 		// "Display the daily population" as specified by requirements
 		// Will choose to interpret that as "Display the daily population [for each in range of growthSpan]"
 		population.simGrowth();
-
 	}
 }
